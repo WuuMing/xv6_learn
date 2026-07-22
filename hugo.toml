@@ -1,4 +1,4 @@
-baseURL = 'https://WuuMing.github.io/xv6_learn/'
+baseURL = 'https://wuuming.github.io/xv6_learn/'
 locale = 'zh-cn'
 title = 'xv6学习笔记'
 theme= "PaperMod"
